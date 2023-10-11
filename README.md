@@ -31,6 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jain-pranjal&" alt="jain-pranjal" /></p>
 
+[![An image of @jainpranjal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jainpranjal)](https://holopin.io/@jainpranjal)
 
 
 
